@@ -54,5 +54,11 @@ const data = {
   ],
   "Lithium" : ['https://ccg1lithium.weebly.com/uploads/1/9/5/8/19586997/header_images/1367668511.jpg', `
     Canada had limited production of lithium from 2014 to 2019 and none in 2020. Several companies are currently working to develop lithium projects from traditional hard rock mining to unconventional sources such as oilfield brines and industrial wastewaters, in Ontario, Quebec, Alberta, Manitoba and Saskatchewan. These projects range from early exploration to an advanced stage.
+    `],
+  "Beryllium" : ['https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg', `
+    is a chemical element with the symbol Be and atomic number 4. It is a steel-gray, strong, lightweight and brittle alkaline earth metal. It is a divalent element that occurs naturally only in combination with other elements to form minerals. Notable gemstones high in beryllium include beryl (aquamarine, emerald) and chrysoberyl. It is a relatively rare element in the universe, usually occurring as a product of the spallation of larger atomic nuclei that have collided with cosmic rays. Within the cores of stars, beryllium is depleted as it is fused into heavier elements. Beryllium constitutes about 0.0004 percent by mass of Earth's crust. The world's annual beryllium production of 220 tons is usually manufactured by extraction from the mineral beryl, a difficult process because beryllium bonds strongly to oxygen.
+    `],
+  "Boron" : ['https://cdn.britannica.com/95/22395-050-2A311AB4/B-Its-element-Boron-square-symbol-periodic.jpg',`
+    Boron is a multipurpose element. It's a crucial nutrient for plants, an important component in the nuclear industry and the main ingredient of a bizarre fluid called oobleck.
     `]
 }
