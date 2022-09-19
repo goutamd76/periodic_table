@@ -60,5 +60,14 @@ const data = {
     `],
   "Boron" : ['https://cdn.britannica.com/95/22395-050-2A311AB4/B-Its-element-Boron-square-symbol-periodic.jpg',`
     Boron is a multipurpose element. It's a crucial nutrient for plants, an important component in the nuclear industry and the main ingredient of a bizarre fluid called oobleck.
-    `]
+    `],
+  "Carbon" : ['https://cdn.britannica.com/94/22394-050-619F56C9/element-symbol-square-C-Its-properties-some.jpg',`
+    carbon (C), nonmetallic chemical element in Group 14 (IVa) of the periodic table. Although widely distributed in nature, carbon is not particularly plentiful—it makes up only about 0.025 percent of Earth’s crust—yet it forms more compounds than all the other elements combined. In 1961 the isotope carbon-12 was selected to replace oxygen as the standard relative to which the atomic weights of all the other elements are measured.
+    `
+  ],
+  "Nitrogen" : ['https://cdn.shopify.com/s/files/1/0083/1668/2358/articles/2000px-Nitrogen_Cycle.svg_4197f76a-4353-4b18-a474-974a8983a966.png?v=1606933528',`
+    nitrogen (N), nonmetallic element of Group 15 [Va] of the periodic table. It is a colourless, odourless, tasteless gas that is the most plentiful element in Earth’s atmosphere and is a constituent of all living matter.
+    `
+
+  ]
 }

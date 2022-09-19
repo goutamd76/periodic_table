@@ -91,3 +91,24 @@ body {
   margin-left: 20px;
 }
 
+/* @media only screen and (width <= 810px) { */
+/*   .element-details img { */
+/*     width: 500px; */
+/*     margin-bottom: .5rem; */
+/*   } */
+/* } */
+/**/
+/* @media only screen and (width <= 700px) { */
+/**/
+/*   .container { */
+/*     flex-direction: column; */
+/*   } */
+/**/
+/*   .n-element { */
+/*     margin-top: 1rem; */
+/*   } */
+/**/
+/*   .element-details { */
+/*     flex-direction: column; */
+/*   } */
+/* } */
