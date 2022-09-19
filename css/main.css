@@ -16,7 +16,10 @@ body {
   background-color: #F5EE9E;
 }
 
-.main, .container, .element-details {
+.main, 
+.container, 
+.element-details, 
+.myGithub {
   margin: 2rem auto;
   width: 80%;
   max-width: 1100px;
